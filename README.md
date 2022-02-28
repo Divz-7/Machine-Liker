@@ -13,5 +13,7 @@ $ git pull
 $ python machine.py
 ```
 # Sosial Media
-Facebook [Diva Prawira N Siregar](facebook.com/divzxsans)
-Instagram [divaprawiraaa](instagram.com/divaprawiraaa)
+```
+Facebook  : facebook.com/divzxsans
+Instagram : instagram.com/divaprawiraaa
+```
